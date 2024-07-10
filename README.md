@@ -1,6 +1,8 @@
 # Cannabis-Agent
 Hugging Face Cannabis Agent
 
+The standard chemical composition of cannabis. 
+
 ##### Cannabis Acids
 
 | Chemical Name                        | SMILES                           |
